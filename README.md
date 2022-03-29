@@ -2,6 +2,14 @@
 
 ## Package needed:
 
-```pip install opencv```
-```pip install imutils```
-```pip install pip install hrv-analysis```
+```
+pip install opencv
+```
+
+```
+pip install imutils
+```
+
+```
+pip install pip install hrv-analysis
+```

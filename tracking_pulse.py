@@ -29,7 +29,7 @@ model = "res10_300x300_ssd_iter_140000.caffemodel"
 confidence = 0.5
 
 # file name that you are saving the data to
-table_name = "hrv_wei.xlsx"
+table_name = "hrv_your_name.xlsx"
 
 # heartbeat setup
 heartbeat_count = 128
